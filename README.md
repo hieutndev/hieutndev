@@ -1,12 +1,10 @@
-<h1 align="center">👋 Hi!</h1>
-
-###
+<h1 align="center" style="text-decoration">👋 Hi!</h1>
 
 <h2 align="center">I’m Tran Ngoc Hieu 🚀</h2>
 
 ###
 
-<p align="center">Fresh out of university with a Bachelor’s degree in Information Technology – Website Development,<br>and now kicking off my journey as a Fresher Fullstack Developer at EZ Active Vietnam 🎉<br><br>I love turning ideas into real web apps, playing around with both frontend & backend stuff, and always curious to learn the next cool thing in tech ✨</p>
+<p align="center">Fresh out of college with a <strong>Bachelor’s degree</strong> in <strong>Information Technology – Website Development</strong>,<br>and now kicking off my journey as a <strong>Fresher Fullstack Developer</strong> at <strong>EZ Active Vietnam</strong> 🎉<br><br>I love turning ideas into real web apps, playing around with both frontend & backend stuff, and always curious to learn the next cool thing in tech ✨</p>
 
 ###
 
@@ -16,11 +14,22 @@
 
 ###
 
-<h2 align="center">🤹🏼 My Skills</h2>
+###
+
+---
 
 ###
 
-<h4 align="center">Techstacks</h4>
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 4px">
+  <img width="48" src="./assets/skill.gif"/>
+  <h2 align="center"><strong>My Skills</strong></h2>
+</div>
+
+
+###
+
+<h3 align="center">Techstacks</h3>
 
 ###
 
@@ -48,7 +57,7 @@
 
 ###
 
-<h4 align="center">Development Tools</h4>
+<h3 align="center">Development Tools</h3>
 
 ###
 
@@ -74,7 +83,7 @@
 
 ###
 
-<h4 align="center">Office & Design Tools</h4>
+<h3 align="center">Office & Design Tools</h3>
 
 ###
 
@@ -90,7 +99,16 @@
 
 ###
 
-<h2 align="center">My activities</h2>
+---
+
+###
+
+###
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 4px">
+<img width="48" src="./assets/activities.gif"/>
+<h2 align="center"><strong>Activities</strong> </h2>
+</div>
 
 ###
 
@@ -100,22 +118,25 @@
 
 ###
 
-<h2 align="center">Connect with me</h2>
+<div style="display: flex; align-items: center; justify-content: center; gap: 8px">
+<img width="48" src="./assets/connect.gif"/>
+<h2 align="center"><strong>Connect with me</strong></h2>
+</div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tranngochieu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/hieutndev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
   <a href="https://www.facebook.com/NgocHieu.Fish/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/tranngochieu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <a href="https://wa.me/84388604092" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://t.me/hieutndev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
 
