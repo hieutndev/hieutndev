@@ -20,7 +20,22 @@
 
 ###
 
+<<<<<<< HEAD
 <h2 align="center" style="font-size: 32px"><img width="48" src="./assets/skill.gif" alt="skills icon"/> <strong>My Skills</strong> <img width="48" src="./assets/skill.gif" alt="skills icon"/></h2>
+=======
+
+<table align="center" border="0">
+  <tr>
+    <td><img width="48" src="./assets/skill.gif" alt="skills icon"/></td>
+    <td><p align="center"><strong>My Skills</strong></p></td>
+  </tr>
+</table>
+
+
+
+
+
+>>>>>>> dce7cd124b1cf6238d46ff5f3c31b49dce92fc8e
 
 ###
 
@@ -100,9 +115,16 @@
 
 ###
 
+<<<<<<< HEAD
 <h2 align="center" style="font-size: 32px"><img width="48" src="./assets/activities.gif"/> <strong>Activities</strong> <img width="48" src="./assets/activities.gif"/></h2>
 
 ###
+=======
+<div style="display: flex; align-items: center; justify-content: center; gap: 4px">
+<img width="48" src="./assets/activities.gif"/>
+<h2><strong>Activities</strong> </h2>
+</div>
+>>>>>>> dce7cd124b1cf6238d46ff5f3c31b49dce92fc8e
 
 ###
 
@@ -112,6 +134,7 @@
 
 ###
 
+<<<<<<< HEAD
 ###
 
 ---
@@ -123,6 +146,12 @@
 <h2 align="center" style="font-size: 32px"><img width="48" src="./assets/connect.gif"/> <strong>Connect with me</strong> <img width="48" src="./assets/connect.gif"/></h2>
 
 ###
+=======
+<div style="display: flex; align-items: center; justify-content: center; gap: 8px">
+<img width="48" src="./assets/connect.gif"/>
+<h2><strong>Connect with me</strong></h2>
+</div>
+>>>>>>> dce7cd124b1cf6238d46ff5f3c31b49dce92fc8e
 
 ###
 
