@@ -1,6 +1,6 @@
 <h1 align="center" style="text-decoration">👋 Hi!</h1>
 
-<h2 align="center">I’m Tran Ngoc Hieu 🚀</h2>
+<h2 align="center">I’m Tran Ngoc Hieu <img width="32" src="./assets/spaceship.gif"/></h2>
 
 ###
 
@@ -20,12 +20,7 @@
 
 ###
 
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 4px">
-  <img width="48" src="./assets/skill.gif"/>
-  <h2 align="center"><strong>My Skills</strong></h2>
-</div>
-
+<h2 align="center" style="font-size: 32px"><img width="48" src="./assets/skill.gif" alt="skills icon"/> <strong>My Skills</strong> <img width="48" src="./assets/skill.gif" alt="skills icon"/></h2>
 
 ###
 
@@ -105,10 +100,9 @@
 
 ###
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 4px">
-<img width="48" src="./assets/activities.gif"/>
-<h2 align="center"><strong>Activities</strong> </h2>
-</div>
+<h2 align="center" style="font-size: 32px"><img width="48" src="./assets/activities.gif"/> <strong>Activities</strong> <img width="48" src="./assets/activities.gif"/></h2>
+
+###
 
 ###
 
@@ -118,10 +112,17 @@
 
 ###
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 8px">
-<img width="48" src="./assets/connect.gif"/>
-<h2 align="center"><strong>Connect with me</strong></h2>
-</div>
+###
+
+---
+
+###
+
+###
+
+<h2 align="center" style="font-size: 32px"><img width="48" src="./assets/connect.gif"/> <strong>Connect with me</strong> <img width="48" src="./assets/connect.gif"/></h2>
+
+###
 
 ###
 
