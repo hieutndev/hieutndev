@@ -21,10 +21,16 @@
 ###
 
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 4px">
-  <img width="48" src="./assets/skill.gif"/>
-  <h2 align="center"><strong>My Skills</strong></h2>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td><img width="48" src="./assets/skill.gif" alt="skills icon"/></td>
+    <td><p align="center"><strong>My Skills</strong></p></td>
+  </tr>
+</table>
+
+
+
+
 
 
 ###
@@ -107,7 +113,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 4px">
 <img width="48" src="./assets/activities.gif"/>
-<h2 align="center"><strong>Activities</strong> </h2>
+<h2><strong>Activities</strong> </h2>
 </div>
 
 ###
@@ -120,7 +126,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 8px">
 <img width="48" src="./assets/connect.gif"/>
-<h2 align="center"><strong>Connect with me</strong></h2>
+<h2><strong>Connect with me</strong></h2>
 </div>
 
 ###
