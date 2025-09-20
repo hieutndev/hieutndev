@@ -83,9 +83,12 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
+  <img src="https://img.icons8.com/?size=100&id=pGHcje298xSl&format=png&color=000000" height="60" alt="word logo"  />
+  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="60" alt="excel logo"  />
+  <img src="https://img.icons8.com/?size=100&id=ifP93G7BXUhU&format=png&color=000000" height="60" alt="powerpoint logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="60" alt="photoshop logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="60" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" height="60" alt="illustrator logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
   <img width="16" />
